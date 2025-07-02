@@ -4,7 +4,7 @@
 
 # 📚 My GitHub Knowledge Base
 
-[![What Is Ansible]   (https://img.youtube.com/vi/<v=1id6ERvfozo>/maxresdefault.jpg)](https://youtu.be/<v=1id6ERvfozo>)
+[![What Is Ansible](https://img.youtube.com/vi/<v=1id6ERvfozo>/maxresdefault.jpg)](https://youtu.be/<v=1id6ERvfozo>)
 
 A central hub for tutorials, docs, code snippets, and media.
 
