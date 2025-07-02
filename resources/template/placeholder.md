@@ -1,4 +1,4 @@
-# Auxiliary files (PDFs, spreadsheets)
+# Auxiliary files (Web Urls that gives knowledge of Ansible. Please maintain the same format Date / Heading / URL)
 
 September, 2024
 
