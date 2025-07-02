@@ -1,4 +1,4 @@
-Ansible Web Resources (Auxiliary Files) Curated list of external web links that provide deep knowledge on Ansible and its ecosystem.
+title: Ansible Web Resources (Auxiliary Files) Curated list of external web links that provide deep knowledge on Ansible and its ecosystem.
 
 
 📅 September 2024
