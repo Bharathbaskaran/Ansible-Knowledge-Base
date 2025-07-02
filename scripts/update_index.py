@@ -15,3 +15,4 @@ with open('README.md','w') as f:
     f.write('# My Knowledge Base\n\n')
     f.write('\n\n'.join(sections))
     f.write(f'\n\n_Last updated: {datetime.date.today()}_')
+python scripts/update_index.py
